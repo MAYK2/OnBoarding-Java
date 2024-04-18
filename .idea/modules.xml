@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/OnBoarding-Java/OnBoarding-Java.iml" filepath="$PROJECT_DIR$/OnBoarding-Java/OnBoarding-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/OnboardingJava.iml" filepath="$PROJECT_DIR$/OnboardingJava.iml" />
     </modules>
   </component>
